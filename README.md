@@ -3,7 +3,7 @@
 Sistema em fileira
     O codigo efetua ao usuário uma quantidade de informações sendo elas numeros e o oferta para a criação do dobro do numero ou a continuação da cosntrução de fileiras.
 
-Itens usados apra a execução:
+Itens usados para a execução:
 
     Modulo de fila do pyhton
     Matematica
